@@ -1,2 +1,5 @@
-# CSST101_Hallig
-CSST101 - BSCS 3B IS Archive
+## **CSST 101 Archives**
+
+- **Name:** Siera Quidayan Hallig
+- **C&Y:** BSCS 3B IS
+- **Subject Code:** CSST 102 | Basic Machine Learning (IS 102)

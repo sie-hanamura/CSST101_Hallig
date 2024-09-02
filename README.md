@@ -1,5 +1,6 @@
 ## **CSST 101 Archives**
+Archive for CSST101 Activities
 
 - **Name:** Siera Quidayan Hallig
 - **C&Y:** BSCS 3B IS
-- **Subject Code:** CSST 102 | Basic Machine Learning (IS 102)
+- **Subject Code:** CSST 101 | Advanced Presentation and Reasoning (IS 101)

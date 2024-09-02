@@ -1,4 +1,4 @@
-## **CSST 101 Archives**
+## **CSST 101 Activities**
 Archive for CSST101 Activities
 
 - **Name:** Siera Quidayan Hallig

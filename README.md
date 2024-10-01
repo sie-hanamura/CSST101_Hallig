@@ -12,6 +12,9 @@ Archive for CSST101 Activities
 #### **Laboratory Exercise #2**
 *  [Click here to view - 09/17/2024]()
 
+#### **Laboratory Exercise #3**
+*  [Click here to view - 10/01/2024]()
+
 #### **Machine Problem #1**
 *  [Click here to view - 09/04/2024]()
 
